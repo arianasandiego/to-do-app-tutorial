@@ -9,3 +9,12 @@ Followed 100 HTML CSS JavaScript Projects for Beginners in 2026 by Codesistency
 - Filters
 - Todos Container
 - Footer
+
+2. CSS
+
+- Basic Reset
+- Header
+- Todo Input
+- Filters
+- Todos Container
+- Footer
