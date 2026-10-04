@@ -36,7 +36,7 @@ body {
 }
 
 header {
-    background-color: var(--primary-light);
+    background-color: var(--primary);
     color: white;
     padding: 20px 25px;
 }
@@ -109,7 +109,7 @@ header p {
     color: var(--primary);
 }
 
-.filter:active {
+.filter.active {
     color: var(--primary);
     border-bottom: 2px solid var(--primary);
     font-weight: 500;
@@ -117,7 +117,7 @@ header p {
 
 .todos-container {
     padding: 15px 0;
-    min-height: 300px;
+    max-height: 300px;
     overflow-y: auto;
 }
 
@@ -129,7 +129,7 @@ header p {
     padding: 12px 15px;
     display: flex;
     align-items: center;
-    transition: backgournd-color 0.2s;
+    transition: background-color 0.2s;
 }
 
 .todo-item:hover {
@@ -157,7 +157,7 @@ header p {
 }
 
 .todo-checkbox:checked + .checkmark {
-    border-color: var(--success);
+    background-color: var(--success);
     border-color: var(--success);
 }
 

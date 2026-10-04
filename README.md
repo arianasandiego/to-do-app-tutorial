@@ -18,3 +18,21 @@ Followed 100 HTML CSS JavaScript Projects for Beginners in 2026 by Codesistency
 - Filters
 - Todos Container
 - Footer
+
+3. JS
+- DOM Elements
+- Variables
+- Event Listeners
+- Functions
+    - Add Todo
+    - Save Todos
+    - Update Items Count
+    - Check Empty State
+    - Filter Todos
+    - Render Todos
+    - Clear Completed
+    - Toggle Todo
+    - Delete Todo
+    - Load Todos
+    - Set Active Filter
+    - Set Date
